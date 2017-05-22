@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Dynamic Tab Page</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="action_static">Static  Tab</string>
+    <string name="acton_dynamic">Dynamic Tab</string>
+    <string name="choos_type">Choose Type of Tab Page Below</string>
+</resources>
